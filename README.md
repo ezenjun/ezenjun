@@ -16,6 +16,6 @@
 - cars
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezenjun&show_icons=true&theme=tokyonight&card_width=50)
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enlqn1010">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ezenjun">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenjun&layout=compact)](https://github.com/ezenjun/github-readme-stats)
