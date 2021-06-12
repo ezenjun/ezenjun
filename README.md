@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ezenjun/ezenjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JAY 😎 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ezenjun) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ezenjun07@gmail.com) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://ezenjun.tistory.com/)
 
-Here are some ideas to get you started:
+### Intro
+- 👋  Hi, I’m @Jun Yong Park
+-  🇰🇷 I'm Korean.
+-  👨🏻‍🎓 My major is software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Now!
+- 👀 I’m interested in Python, Django, Web Development
+
+### What I Like
+- coffee
+- cooking
+- 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezenjun&show_icons=true&theme=tokyonight&card_width=50)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enlqn1010">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenjun&layout=compact)](https://github.com/ezenjun/github-readme-stats)
