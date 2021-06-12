@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello! [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ezenjun07@gmail.com) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://ezenjun.tistory.com/)
+### Hi there 👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ezenjun07@gmail.com) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://ezenjun.tistory.com/)
 
 ### Intro
 - 👋  Hi, I’m @Jun Yong Park
