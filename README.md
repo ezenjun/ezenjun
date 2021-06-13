@@ -9,9 +9,9 @@
 - 👀 I’m interested in Python, Django, Web Development
 
 ### What I Like
-- coffee
-- cooking
-- cars
+- ☕coffee
+- 🔪cooking
+- 🚗cars
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezenjun&show_icons=true&theme=tokyonight&card_width=50)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ezenjun">
