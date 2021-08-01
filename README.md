@@ -6,7 +6,7 @@
 -  👨🏻‍🎓 My major is software engineering
 
 ### Learning Now!
-- 👀 I’m interested in Python, Django, Web Development
+- 👀 I’m interested in Vue.js, React, Django, Web Development
 
 ### What I Like
 - ☕coffee
