@@ -15,6 +15,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezenjun&show_icons=true&theme=tokyonight&card_width=50)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenjun&layout=compact&theme=tokyonight)](https://github.com/ezenjun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenjun&layout=compact&theme=tokyonight)](https://github.com/ezenjun/github-readme-stats)
 
 
