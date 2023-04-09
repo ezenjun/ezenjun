@@ -4,9 +4,10 @@
 - 👋  Hi, I’m @Jun Yong Park
 -  🇰🇷 I'm Korean.
 -  👨🏻‍🎓 My major is software engineering
+-  I'm the Frontend Developer of Application SLUV(스럽)!
 
 ### Learning Now!
-- 👀 I’m interested in Project Management, Vue.js, React, Django, Web Development
+- 👀 I’m interested in React, Web Development
 
 ### What I Like
 - ☕coffee
